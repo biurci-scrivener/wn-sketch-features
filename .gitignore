@@ -1,0 +1,10 @@
+__pycache__/
+triangle/
+*.so
+*.o
+# python environment
+.venv
+.envrc
+poetry.lock
+pyproject.toml
+.DS_Store
